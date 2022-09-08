@@ -1,0 +1,13 @@
+.container{
+    display: inline-flex;
+    
+}
+#firstrow{
+    display: none;
+}
+#lastrow{
+    display: none;
+}
+.btn{
+    margin: 10px;
+}
